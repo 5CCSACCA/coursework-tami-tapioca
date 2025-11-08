@@ -1,0 +1,3 @@
+* main                5545acd [origin/main] added content to Dockerfile, requirements.txt and docker-compose.yml
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main 5545acd added content to Dockerfile, requirements.txt and docker-compose.yml
