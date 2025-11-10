@@ -1,3 +1,4 @@
+# Review: this docker-compose file sets up a MongoDB service and a Jupyter Notebook service that connects to the MongoDB instance. It does not fit with the expected requirements, which are a visualization system and an llm service. Please double-check the requirements and provide a corrected version.
 version: '3.8'
 
 services:

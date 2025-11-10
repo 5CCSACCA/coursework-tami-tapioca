@@ -1,1 +1,4 @@
 These are the extra review notes apart from the code.
+Gitflow: this repository should be using gitflow branching model. However, there is only a main branch. Please create develop branch from main and use it for future development.
+Compose: the compose file uploads a Mongo and Jupyter environments, this is not the expected behaviour, although the mongo database can be useful, please check the requirements and adjust the compose file accordingly. You need a visualization services and an llm service.
+Generally, I can see that the project is in early stages, please make sure to follow the requirements and implement the missing parts.

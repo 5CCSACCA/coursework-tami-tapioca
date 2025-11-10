@@ -1,3 +1,4 @@
+# Review: This dockerfile creates a Jupyter Notebook environment using Python 3.10-slim as the base image. This is not part of the coursework. Please, check the requirements.
 FROM python:3.10-slim
 
 WORKDIR /app
